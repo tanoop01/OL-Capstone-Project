@@ -91,10 +91,7 @@ A thorough EDA was conducted to uncover patterns and relationships within the da
 
 The entire analysis, including the predictive models and clustering results, was consolidated into an interactive web application using **Streamlit**.
 
--   **File**: `streamlit_app.py` contains the full code for the dashboard.
--   **Functionality**: The app allows users to navigate between different sections: EDA, Treatment Prediction, Age Prediction, and Persona Clustering.
--   **Interactivity**: Users can input their own data into sidebar forms and receive real-time predictions from the trained Random Forest and K-Means models.
--   **Execution**: The application can be run locally from the command line with `streamlit run streamlit_app.py` after installing the dependencies listed in `requirements.txt`.
+-  It can be easily accessed and opened by using this url : [Streamlit App](https://ol-capstone-project-ziazg8daf6miapp226ea2sk.streamlit.app/)
 
 ## 9. Business Recommendations
 
@@ -115,3 +112,4 @@ Based on the analysis, the following recommendations are proposed for tech compa
     -   **Analyze Recent Data**: Replicating the analysis with a more current dataset would provide more relevant insights.
     -   **Analyze Text Data**: The 'comments' column could be analyzed using NLP techniques to extract qualitative insights.
     -   **Causal Inference**: Conduct studies to determine the causal impact of specific policy interventions on employee well-being.
+
