@@ -621,4 +621,5 @@ elif page == "Persona Clustering":
     )
 
 st.sidebar.markdown("---")
-st.sidebar.markdown("GitHub Repository :  Github")
+st.sidebar.markdown("GitHub Repository : [OL-Capstone-Project](https://github.com/tanoop01/OL-Capstone-Project/tree/main)")
+
